@@ -25,9 +25,18 @@
     "LICENSE",
     "README.md"
   ],
-  "keywords": [],
+  "keywords": [
+    "emojis",
+    "emoji",
+    "emoji library",
+    "emoji package",
+    "emoji collection",
+    "emoticons",
+    "emoticon library",
+    "emoticon package"
+  ],
   "author": "Alok Shete",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alok-shete/emojis-box/issues"
   },
