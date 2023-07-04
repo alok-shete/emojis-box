@@ -40,4 +40,4 @@ The Emoji component accepts the following prop:
 Contributions to Emojis-Box are welcome! If you find a bug or want to add a new feature, please open an issue or submit a pull request on the GitHub repository.
 
 ## License
-Emojis-Box is released under the MIT License.
+Emojis-Box is released under the [MIT License.](https://github.com/alok-shete/emojis-box/blob/main/LICENSE)
