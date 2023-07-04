@@ -3,10 +3,13 @@ Emojis-Box is a React component library that provides a reusable Emoji component
 
 ## Installation
 You can install Emojis-Box using npm or Yarn.
-```npm install emojis-box```
+```
+npm install emojis-box
+```
 or
-```yarn add emojis-box```
-ya
+```
+yarn add emojis-box
+```
 ### Usage
 To use the Emoji component, import it into your React application and provide the name of the emoji as a prop.
 
